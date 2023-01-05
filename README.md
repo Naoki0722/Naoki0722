@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naoki</h1>
-<h3 align="center">Backend Engineer from Japan</h3>
+
+<h3 align="center">Rigtcode Inc´s Backend Engineer→Yamaden Corporation´s Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naoki0722&label=Profile%20views&color=0e75b6&style=flat" alt="naoki0722" /> </p>
 

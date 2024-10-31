@@ -22,7 +22,7 @@
 
 ## TIL
 
-- [scrapbox](https://scrapbox.io/stream/nao-til/)
+- [scrapbox](https://scrapbox.io/nao-til/)
 - [zenn](https://zenn.dev/naoki0722)
 
 
